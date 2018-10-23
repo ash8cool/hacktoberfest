@@ -5,7 +5,7 @@ title: profile
 name: Ashish Sharma
 
 email: ash8cool@gmail.com
-quora: <Your Quora profile>
+quora: https://www.quora.com/profile/Ashishsharma/
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
 google: <Your Google+ profile>
