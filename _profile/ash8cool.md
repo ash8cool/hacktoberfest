@@ -17,7 +17,7 @@ spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+instagram: https://www.instagram.com/include_ashish.h/
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
 
