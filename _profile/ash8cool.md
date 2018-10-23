@@ -21,5 +21,5 @@ instagram: https://www.instagram.com/include_ashish.h/
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
 
-picture: <Link to your image>
+picture: https://i.imgur.com/SisPyLd.jpg
 ---
