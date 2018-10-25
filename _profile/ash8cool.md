@@ -15,7 +15,7 @@ github: <Your GitHub profile>
 lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
+twitter: https://twitter.com/ash8hero
 linkedin: https://www.linkedin.com/in/ashish-sharma-b2894a130/
 instagram: https://www.instagram.com/include_ashish.h/
 pinterest: <Your Pinterest profile>
